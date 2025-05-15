@@ -1,10 +1,9 @@
-#include <iostream>
-#include <vector>
-#include <map>
-#include <bit>
-#include <format>
+#include <bits/stdc++.h>
+
 
 using namespace std;
+
+
 
 void f(int n) {
     if (n > 20000)
