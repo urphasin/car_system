@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "format": "cpp",
+        "map": "cpp",
+        "bit": "cpp"
+    }
+}
